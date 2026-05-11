@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nikita Kumari
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=awesome)
-[HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
-[CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
-[JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3.11-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-2023-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
